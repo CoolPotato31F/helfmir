@@ -1,0 +1,1 @@
+from myThingy.startup import *
